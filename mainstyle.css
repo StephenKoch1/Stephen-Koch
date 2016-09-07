@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+header{
+	text-align:center;
+	color: #FFDD00;
+	background: #30006C;
+	font-size: 36px;
+}
+#navbar {
+	color: #D01013 ;
+	font-size: 20px;
+	padding-bottom: 50px;
+	align-content: center;
+}
+#navbar ul {
+	align-content: center;
+	list-style-type: circle;
+	margin: 40px;
+	bottom-padding: 30px;
+	background-color: blue;
+}
+#navbar li{
+	display: inline;
+	align-content: center;
+}
+#navbar li a {
+	color: white;
+	text-align: center;
+	padding-top: 0px;
+	padding-right: 15px;
+	padding-bottom: 25px;
+	padding-left: 15px;
+}
+#footer {
+	background: #884C9B;
+	color: white;
+}
+#footer img {
+	float: right;
+}
+body {
+}
+body img {
+	padding-bottom:700px;
+	float: right;
+}.centretext {
+}
+.centreText {
+}
